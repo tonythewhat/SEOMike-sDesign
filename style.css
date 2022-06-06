@@ -272,6 +272,14 @@ a:hover {
     margin-top: 80px;
 }
 
+.Taylor_Cook_quote {
+    font-size: 1em;
+}
+
+.design-graphics {
+    color: black;
+}
+
 .row-no-gutters {
     margin-right: 0;
     margin-left: 0;
@@ -781,7 +789,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #F3A86C;
 }
 
 
@@ -790,7 +798,7 @@ h4 {
 } */
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #F3A86C;
     color: #FFFFFF!important;
 }
 
@@ -808,7 +816,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #F3A86C!important;
 }
 
 .ltc-atomic-tangerine:hover {
@@ -821,19 +829,19 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.png");
+    background-image: url("img/dots-bg.webp");
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
+    background-image: url("img/lines-h2-bg.webp");
 }
 
 .bg-atlanta-20made-20sign {
-    background-image: url("img/atlanta%20made%20sign.jpg");
+    background-image: url("img/atlanta\ made\ sign.webp");
 }
 
 .bg-atlanta-20made-20sign-20orange {
-    background-image: url("img/atlanta%20made%20sign%20orange.jpg");
+    background-image: url("img/atlanta\ made\ sign\ orange.webp");
 }
 
 @media (max-width: 1024px) {
