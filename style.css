@@ -101,6 +101,8 @@ a:hover {
 
 .d-bloc {
     color: rgba(255, 255, 255, .7);
+    display: flex;
+    justify-content: center;
 }
 
 .d-bloc button:hover {
@@ -278,6 +280,11 @@ a:hover {
 
 .design-graphics {
     color: black;
+}
+
+.row-contact {
+    display: flex;
+    justify-content: space-between;
 }
 
 .row-no-gutters {
@@ -518,13 +525,18 @@ button {
     box-shadow: none;
 }
 
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
 .scrollToTop {
     width: 40px;
     height: 40px;
     position: fixed;
     bottom: 20px;
     right: 20px;
-    opacity: 0;
+    opacity: 1;
     z-index: 500;
     transition: all .3s ease-in-out;
 }
@@ -533,10 +545,11 @@ button {
     margin-top: 6px;
 }
 
-.showScrollTop {
+
+/* .showScrollTop {
     font-size: 14px;
     opacity: 1;
-}
+} */
 
 a[data-lightbox] {
     position: relative;
@@ -656,7 +669,7 @@ label,
 .btn {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #575757;
 }
 
 a,
@@ -727,6 +740,10 @@ h3 {
     color: #333333!important;
 }
 
+.text-center {
+    color: whitesmoke;
+}
+
 .med-width-whitespace {
     max-width: 800px;
     margin: auto auto auto auto;
@@ -792,10 +809,13 @@ h4 {
     background-color: #F3A86C;
 }
 
+.btn-atomic-tamarind {
+    background-color: #9e3300;
+}
 
-/* .tc-white {
-    color: #364577!important;
-} */
+.tc-white {
+    color: #ffffff!important;
+}
 
 .btn-atomic-tangerine {
     background: #F3A86C;
