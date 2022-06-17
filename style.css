@@ -282,9 +282,15 @@ a:hover {
     color: black;
 }
 
+.col-sm-6 {
+    width: 500px;
+    margin: 0px 30px;
+}
+
 .row-contact {
     display: flex;
     justify-content: space-between;
+    flex-direction: row;
 }
 
 .row-no-gutters {
