@@ -44,6 +44,10 @@ a:hover {
     padding-right: 0;
 }
 
+.service-description {
+    color: #000000!important;
+}
+
 .bloc-lg {
     padding: 100px 50px;
 }
