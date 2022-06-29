@@ -264,7 +264,7 @@ a:hover {
     color: rgba(0, 0, 0, 1);
 }
 
-*/ .l-bloc .navbar-toggle .icon-bar {
+.l-bloc .navbar-toggle .icon-bar {
     color: rgba(0, 0, 0, .6);
 }
 
